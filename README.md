@@ -1,9 +1,9 @@
 # Consumo-del-agua
 
-## Tema : ![gestion-del-agua-scaled](https://github.com/user-attachments/assets/90b23203-59a8-4850-b841-b65272f7af4d)
+## Tema : Consumo del agua
+![gestion-del-agua-scaled](https://github.com/user-attachments/assets/90b23203-59a8-4850-b841-b65272f7af4d)
 
-Consumo del agua
-![imagen ejemplo](https://share.google/images/Wg8IteYHH27mbw4Fx)    
+    <img src="https://github.com/user-attachments/assets/90b23203-59a8-4850-b841-b65272f7af4d" width="200" alt="Mi imagen en GitHub">   
 ## Pregunta a responder con el analisis de datos:
 ¿En que momentos del dia se registra un mayor consumo de agua en los hogares?
 
