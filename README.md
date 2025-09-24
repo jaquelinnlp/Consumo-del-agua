@@ -5,7 +5,7 @@
 
 
 
-¡Espero que esto ayude! 
+
 ## Pregunta a responder con el analisis de datos:
 ¿En que momentos del dia se registra un mayor consumo de agua en los hogares?
 
