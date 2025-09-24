@@ -8,16 +8,16 @@ Consumo del agua
 
 ## Elementos de datos necesarios:
 
-Registro de consumo de agua por hora \ dia en cada vivienda,
-Numero de habitantes por hogar, 
-Estaciones del año  (verano, invierno ) para identificar cambios en el uso de agua,
-Actividades principales que generan mayor consumo de agua(baño, cocina , lavado de ropa, etc.)
+- Registro de consumo de agua por hora \ dia en cada vivienda,
+- Numero de habitantes por hogar, 
+- Estaciones del año  (verano, invierno ) para identificar cambios en el uso de agua,
+- Actividades principales que generan mayor consumo de agua(baño, cocina , lavado de ropa, etc.)
 
 ## Fuentes de informacion:
-https://www.fundacionaquae.org/como-utilizamos-el-agua-en-nuestras-casas/
-https://share.google/mHuxI0oyAiw2840h8
-https://share.google/y9JoeLOCU6qIGUXmF
-https://share.google/zC5KFvYKV11vYtMvc
+- https://www.fundacionaquae.org/como-utilizamos-el-agua-en-nuestras-casas/
+- https://share.google/mHuxI0oyAiw2840h8
+- https://share.google/y9JoeLOCU6qIGUXmF
+- https://share.google/zC5KFvYKV11vYtMvc
 
 ## Objetivo:
 
