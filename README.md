@@ -1,8 +1,9 @@
 # Consumo-del-agua
 
 ## Tema : Consumo del agua
-![gestion-del-agua-scaled](https://github.com/user-attachments/assets/90b23203-59a8-4850-b841-b65272f7af4d)
-
+< div align="center">
+  <img src = "agua.jpg" alt= " descripcion de la imagen " width="40%" >
+</div>
 
 
 
