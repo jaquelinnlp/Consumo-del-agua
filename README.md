@@ -1,7 +1,7 @@
 # Consumo-del-agua
 
 ## Tema : Consumo del agua
-< div align="center">
+  < div align="center">
   <img src = "agua.jpg" alt= " descripcion de la imagen " width="40%" >
 </div>
 
