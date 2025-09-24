@@ -8,9 +8,15 @@ Tema : Consumo del agua
 
 Registro de consumo de agua por hora \ dia en cada vivienda,
 Numero de habitantes por hogar, 
-Estaciones del año  (verano, invierno ) para identificar cambios en el uso,
+Estaciones del año  (verano, invierno ) para identificar cambios en el uso de agua,
 Actividades principales que generan mayor consumo de agua(baño, cocina , lavado de ropa, etc.)
+
+## Fuentes de informacion:
+https://www.fundacionaquae.org/como-utilizamos-el-agua-en-nuestras-casas/
+https://share.google/mHuxI0oyAiw2840h8
+https://share.google/y9JoeLOCU6qIGUXmF
+https://share.google/zC5KFvYKV11vYtMvc
 
 ## Objetivo:
 
-Hacer conciencia sobre el desperdicio de agua y hacer su uso necesario .
+Hacer conciencia sobre el desperdicio de agua y hacer su uso necesario para asi conservar este recurso y proteger el medio ambiente.
