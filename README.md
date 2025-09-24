@@ -2,8 +2,11 @@
 
 ## Tema : Consumo del agua
 ![gestion-del-agua-scaled](https://github.com/user-attachments/assets/90b23203-59a8-4850-b841-b65272f7af4d)
+¡Hola! Aquí hay una imagen pequeña:
 
-    <img src="https://github.com/user-attachments/assets/90b23203-59a8-4850-b841-b65272f7af4d" width="200" alt="Mi imagen en GitHub">   
+<img src="https://github.com/imagen.png" width="150" alt="Imagen pequeña de ejemplo">
+
+¡Espero que esto ayude! 
 ## Pregunta a responder con el analisis de datos:
 ¿En que momentos del dia se registra un mayor consumo de agua en los hogares?
 
