@@ -3,10 +3,10 @@ Tema : Consumo del agua ¿En que momentoos del dia se registra un mayor consumo 
 
 ## Elementos de datos necesarios
 
- Registro de consumo de agua por hora \ dia en cada vivienda
- Numero de habitantes por hogar 
- Estaciones del año  (verano, invierno ) para identificar cambios en el uso
- Actividades principales que generan mayor consumo (baño, cocina , lavado de ropa, etc.)
+Registro de consumo de agua por hora \ dia en cada vivienda
+Numero de habitantes por hogar 
+Estaciones del año  (verano, invierno ) para identificar cambios en el uso
+Actividades principales que generan mayor consumo (baño, cocina , lavado de ropa, etc.)
 
 ## Objetivo
 Hacer conciencia sobre el desperdicio de agua y hacer su uso necesario .
