@@ -17,6 +17,8 @@
 - Estaciones del año  (verano, invierno ) para identificar cambios en el uso de agua,
 - Actividades principales que generan mayor consumo de agua(baño, cocina , lavado de ropa, etc.)
 
+## Dataset
+*[Conjunto de datos sobre el consumo mundial de agua (2000-2024) 🌍💧](archivo.zip)
 ## Fuentes de informacion:
 - https://www.fundacionaquae.org/como-utilizamos-el-agua-en-nuestras-casas/
 - https://share.google/mHuxI0oyAiw2840h8
