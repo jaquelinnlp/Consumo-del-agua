@@ -18,7 +18,7 @@
 - Actividades principales que generan mayor consumo de agua(baño, cocina , lavado de ropa, etc.)
 
 ## Dataset
-*[Conjunto de datos sobre el consumo mundial de agua (2000-2024) 🌍💧](cosumo)
+*[Conjunto de datos sobre el consumo mundial de agua (2000-2024) 🌍💧](consumo_global_de_agua_limpia.csv)
 ## Fuentes de informacion:
 - https://www.fundacionaquae.org/como-utilizamos-el-agua-en-nuestras-casas/
 - https://share.google/mHuxI0oyAiw2840h8
