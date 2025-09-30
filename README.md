@@ -1,8 +1,8 @@
 # Consumo-del-agua
 
 ## Tema : Consumo del agua
-< p align="center">
-  <img src = "agua.jpg" alt= "descripcion de la imagen " width="300" />
+<p align="center">
+  <img src = "agua.jpg" alt= "descripcion de la imagen " width="200"/>
 </p>
 
 
