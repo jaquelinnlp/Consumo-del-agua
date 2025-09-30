@@ -5,7 +5,7 @@
   <img src = "agua.jpg" alt= "descripcion de la imagen " width="200"/>
 </p>
 
-
+<div align="left">
 
 ## Pregunta a responder con el analisis de datos:
 ¿En que momentos del dia se registra un mayor consumo de agua en los hogares?
@@ -27,3 +27,4 @@
 ## Objetivo:
 
 Hacer conciencia sobre el desperdicio de agua y hacer su uso necesario para asi conservar este recurso y proteger el medio ambiente.
+</div>
